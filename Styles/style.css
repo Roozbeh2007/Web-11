@@ -1,0 +1,10 @@
+@font-face {
+    font-family: MPLUS;
+    src: url(../Fonts/MPLUS1p-Medium.ttf);
+}
+body{
+    font-family: "MPLUS";
+}
+img{
+    max-width: 100%;
+}
